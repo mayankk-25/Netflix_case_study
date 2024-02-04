@@ -124,47 +124,55 @@ But here are a few lessons to learn from their DevOps
 strategy:
 
 1) **Don’t build systems that say no to your developers**
+
 Netflix has no push schedules or push windows that developers
 must go through to push their code into production. Instead, every
 engineer at Netflix has full access to the production environment.
 
 2) **Focus on giving freedom and responsibility to the
 engineers**
+
 Netflix aims to hire intelligent people and provide them with the
 freedom to solve problems in their own way that they see as best.
 They hire people who can develop a balance of freedom and
 responsibility.
 
 3) **Don’t think about uptime at all costs**
+
 Netflix servers their millions of users with a near-perfect
 uptime. But it didn’t think about uptime when they started
 chaos testing their environment to deal with unexpected
 failure.
 
 4) **Eliminate a lot of processes and procedures**
+
 They limit an organization from moving fast. Instead, they
 hire people they can trust and have independent decision-
 making.
 
 5) **Don’t do a lot of required standards, but focus on
 enablement**
+
 Teams at Netflix can work with their choice of programming
 languages, libraries, frameworks, or IDEs as they see best. In
 addition, they don’t have to go through any research or
 approval processes to rewrite a portion of the system.
 
 6) **Don’t do silos, walls, and fences**
+
 Netflix teams know where they fit in the ecosystem, their
 workings with other teams, dependents, and dependencies.
 There are no operational fences over which developers can
 throw the code for production.
 
 7) **Adopt “you build it, you run it” culture**
+
 Netflix focuses on making ownership easy. So it has the
 “operate what you build” culture but with the enablement idea
 that we learned about earlier.
 
 8) **Focus on data**
+
 Netflix is a data-driven, decision-driven company. It
 doesn’t do guesses or fall victim to gut instincts and
 traditional thinking.
@@ -172,10 +180,12 @@ It invests in algorithms and systems that combs enormous
 amounts of data quickly and notify when there’s an issue.
 
 9) **Always put customer satisfaction first**
+
 The end goal of DevOps is to make customer-driven and
 focus on enhancing the user experience with every release.
 
 10) **Don’t do DevOps, but focus on the culture**
+
 At Netflix, DevOps emerged as the wonderful result of
 their healthy culture, thinking and practices.
 
